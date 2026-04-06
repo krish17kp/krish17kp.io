@@ -87,20 +87,20 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>AI & AUTOMATION</h3>
-              <h4>Workflow Intelligence for Organizations</h4>
+              <h3>AI &amp; MACHINE LEARNING</h3>
+              <h4>Deep learning, clustering, and forecasting systems</h4>
               <p>
-                AI specialist helping organizations automate workflows—internal ops
-                and customer-facing—so teams ship faster with less manual work.
+                I build practical AI pipelines for prediction and automation, from
+                experimentation to deployable model services.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">LLMs &amp; agents</div>
-                <div className="what-tags">Workflow design</div>
-                <div className="what-tags">RAG &amp; retrieval</div>
-                <div className="what-tags">Evals &amp; guardrails</div>
-                <div className="what-tags">Integrations</div>
-                <div className="what-tags">Product strategy</div>
+                <div className="what-tags">Deep Learning</div>
+                <div className="what-tags">Clustering</div>
+                <div className="what-tags">Time-Series Forecasting</div>
+                <div className="what-tags">Model Evaluation</div>
+                <div className="what-tags">Feature Engineering</div>
+                <div className="what-tags">Experiment Tracking</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -124,21 +124,22 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BUILD &amp; SCALE</h3>
-              <h4>Shipping AI in Production</h4>
+              <h3>COMPUTER VISION &amp; FULL-STACK AI</h3>
+              <h4>Real-time inference and end-to-end product systems</h4>
               <p>
-                I build the systems behind it: APIs, data, voice/real-time, and
-                full-stack products—production-ready, not slide decks.
+                I build and deploy real-time CV applications with full-stack
+                architecture, integrating APIs, frontend apps, and analytics.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
+                <div className="what-tags">CNN-based Systems</div>
+                <div className="what-tags">Real-time Emotion Detection</div>
+                <div className="what-tags">Video Processing</div>
+                <div className="what-tags">FastAPI</div>
                 <div className="what-tags">Python</div>
-                <div className="what-tags">REST &amp; real-time APIs</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">MongoDB</div>
                 <div className="what-tags">React</div>
-                <div className="what-tags">Cloud &amp; infra</div>
+                <div className="what-tags">Real-time Inference Pipelines</div>
+                <div className="what-tags">Dashboards &amp; Visualization</div>
               </div>
               <div className="what-arrow"></div>
             </div>

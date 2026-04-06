@@ -11,36 +11,28 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
-                href="https://www.linkedin.com/in/akashrmalhotra/"
+                href="https://www.linkedin.com/in/krishparekhkp/"
                 target="_blank"
                 rel="noreferrer"
                 data-cursor="disable"
               >
-                LinkedIn — akashrmalhotra
+                LinkedIn — krishparekhkp
               </a>
             </p>
-            <h4>Education</h4>
+            <h4>Focus</h4>
             <p>
-              PGPWE (MBA), Indian Institute of Management, Lucknow — 2021–2023
+              Data Science student specializing in AI/ML, Computer Vision, and
+              real-time systems.
             </p>
             <p>
-              B.Tech Computer Science, Manav Rachna Educational Institutions —
-              2009–2013
+              Building end-to-end AI applications from model training to
+              production deployment.
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/akashrmalhotra"
-              target="_blank"
-              rel="noreferrer"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              GitHub <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.linkedin.com/in/akashrmalhotra/"
+              href="https://www.linkedin.com/in/krishparekhkp/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -49,16 +41,25 @@ const Contact = () => {
               LinkedIn <MdArrowOutward />
             </a>
             <a
-              href="https://www.youtube.com/@Leftbraincoder"
+              href="/KrishParekh_ 2027 RESUME.pdf"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
-              YouTube <MdArrowOutward />
+              Resume <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/leftbraincoder/"
+              href="https://github.com/krish17kp"
+              target="_blank"
+              rel="noreferrer"
+              data-cursor="disable"
+              className="contact-social"
+            >
+              GitHub <MdArrowOutward />
+            </a>
+            <a
+              href="https://www.instagram.com/krish_17parekh/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -69,7 +70,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Akash Malhotra</span>
+              Designed and Developed <br /> by <span>Krish Parekh</span>
             </h2>
             <h5>
               <MdCopyright /> 2026

@@ -5,8 +5,8 @@ const Career = () => {
     <div className="career-section section-container">
       <div className="career-container">
         <h2>
-          My career <span>&</span>
-          <br /> experience
+          My <span>Experience</span> <span>&</span>
+          <br /> Highlights
         </h2>
         <div className="career-info">
           <div className="career-timeline">
@@ -15,58 +15,45 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Co-Founder</h4>
-                <h5>CallHQ.ai</h5>
+                <h4>AI/ML Developer</h4>
+                <h5>Projects &amp; Hackathons</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>Current</h3>
             </div>
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
+              Built multiple AI systems across computer vision, automation, and
+              decision intelligence, focusing on real-world applications and
+              deployment.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Adobe</h4>
-                <h5>6+ years · Noida</h5>
+                <h4>Team Lead</h4>
+                <h5>Ace Hackathon</h5>
               </div>
-              <h3>2017–24</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
+              Led development of a real-time emotion recognition system using
+              deep learning and React, delivering a working prototype under tight
+              deadlines.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Consultant</h4>
-                <h5>Genpact Headstrong </h5>
+                <h4>Key Highlights</h4>
+                <h5>Impact Snapshot</h5>
               </div>
-              <h3>2016–17</h3>
+              <h3>Core</h3>
             </div>
             <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
-              by the UI; deployment support across environments; NUnit tests and
-              coverage; bug fixes from QA and users; database work.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Sf Engineer</h4>
-                <h5>Infogain</h5>
-              </div>
-              <h3>2013-16</h3>
-            </div>
-            <p>
-              Software engineering across enterprise projects, contributing to
-              design, development, and delivery of business applications.
+              Built multiple AI applications solving real-world problems across
+              automation, computer vision, and analytics. Designed complete
+              systems from data processing to deployment, not just model
+              training. Delivered functional prototypes in high-pressure
+              hackathon environments.
             </p>
           </div>
         </div>

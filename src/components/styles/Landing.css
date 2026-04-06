@@ -228,6 +228,15 @@
   letter-spacing: 2px;
 }
 
+.landing-subtext {
+  margin: 14px 0 0;
+  max-width: 520px;
+  font-size: 14px;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.86);
+  letter-spacing: 0.5px;
+}
+
 .landing-h2-info-1 {
   position: absolute;
   top: 0;
@@ -320,6 +329,10 @@ h2.landing-info-h2 {
   h2.landing-info-h2 {
     font-size: 55px;
   }
+
+  .landing-subtext {
+    font-size: 15px;
+  }
 }
 
 @media screen and (min-width: 1025px) {
@@ -393,5 +406,10 @@ h2.landing-info-h2 {
 
   h2.landing-info-h2 {
     font-size: 75px;
+  }
+
+  .landing-subtext {
+    font-size: 17px;
+    max-width: 600px;
   }
 }
