@@ -3,10 +3,6 @@
 A modern 3D portfolio built with React, TypeScript, Three.js, React Three Fiber, and GSAP.  
 Includes interactive animations, a 3D character scene, and smooth transitions designed for a polished user experience.
 
-## Live Demo
-
-https://akashrmalhotra.netlify.app/
-
 ## Preview
 
 ![Portfolio Preview](./public/images/preview1.png)
