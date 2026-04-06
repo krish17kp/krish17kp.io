@@ -5,7 +5,7 @@ Includes interactive animations, a 3D character scene, and smooth transitions de
 
 ## Preview
 
-![Portfolio Preview](./public/images/preview krish.png)
+![Portfolio Preview](public/images/preview-krish.png)
 
 ---
 
