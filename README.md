@@ -3,6 +3,8 @@
 A modern 3D portfolio built with React, TypeScript, Three.js, React Three Fiber, and GSAP.  
 Includes interactive animations, a 3D character scene, and smooth transitions designed for a polished user experience.
 
+##LiveDemo
+https://krish17kpportfolioio.vercel.app/
 ## Preview
 
 ![Portfolio Preview](https://raw.githubusercontent.com/krish17kp/Portfolio/main/public/images/preview-krish.png)
